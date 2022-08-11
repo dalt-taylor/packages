@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b2da34a-2566-4a2b-b7c2-e1fa4172ad1e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/dategetter/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/dategetter/DateGetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/virginia/cs/dategetter/DateImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/virginia/cs/dategetter/DateGetterTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="2b2da34a-2566-4a2b-b7c2-e1fa4172ad1e" name="Changes" comment="InitialCommit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,8 +161,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660175806508</updated>
-      <workItem from="1660175808194" duration="5207000" />
+      <workItem from="1660175808194" duration="5511000" />
     </task>
+    <task id="LOCAL-00001" summary="InitialCommit">
+      <created>1660181289285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660181289285</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +186,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="InitialCommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="InitialCommit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PackageExample$.ic" NAME=" Coverage Results" MODIFIED="1660180476594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
