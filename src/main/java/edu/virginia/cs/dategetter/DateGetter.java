@@ -6,6 +6,7 @@ import java.time.*;
 public class DateGetter {
     /**
      * Takes in a year, month, and day and return that as a Date Object
+     *
      * @throws IllegalArgumentException if date is invalid.
      */
     public Date getDate(int year, int month, int day) {
@@ -38,12 +39,14 @@ public class DateGetter {
     public String getMonthDayYearDate(Date date) {
         return date.getMonth() + "-" + date.getDay() + "-" + date.getYear();
     }
+
     /**
      * Returns a date in Day-Month-Year format. Example: "23-8-2022"
      */
     public String getDayMonthYearDate(Date date) {
         return date.getDay() + "-" + date.getMonth() + "-" + date.getYear();
     }
+
     /**
      * Returns a date in Year-Month-Day format. Example: "2022-8-23"
      */
